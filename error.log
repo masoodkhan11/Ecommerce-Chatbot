@@ -1,0 +1,75 @@
+[26-Jul-2017 19:54:34 Asia/Calcutta] Array
+(
+    [msg_id] => 92adf6a5-9f0c-40f6-9b9b-7ed3a2c0e71e
+    [_text] => checkout
+    [entities] => Array
+        (
+            [intent] => Array
+                (
+                    [0] => Array
+                        (
+                            [confidence] => 0.99550758175312
+                            [value] => checkout
+                        )
+
+                )
+
+        )
+
+)
+
+[26-Jul-2017 19:54:36 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsI5IkFdf0kAS7ElD"}
+[26-Jul-2017 19:54:43 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsI5kWldf0kcEZjvR"}
+[26-Jul-2017 19:54:56 Asia/Calcutta] Last Id : 24
+[26-Jul-2017 19:54:56 Asia/Calcutta] New record created successfully
+[26-Jul-2017 19:54:56 Asia/Calcutta] New record created successfully
+[26-Jul-2017 19:54:57 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsI6YUVdf0lQCwSqF"}
+[26-Jul-2017 20:02:42 Asia/Calcutta] Array
+(
+    [msg_id] => cc2412b8-b463-4d1d-bbd5-188e1fa836f0
+    [_text] => hi
+    [entities] => Array
+        (
+            [greetings] => Array
+                (
+                    [0] => Array
+                        (
+                            [confidence] => 0.99993050098374
+                            [value] => true
+                        )
+
+                )
+
+        )
+
+)
+
+[26-Jul-2017 20:02:43 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsJW3NFdf1Bu7UrVP"}
+[26-Jul-2017 20:02:53 Asia/Calcutta] Array
+(
+    [msg_id] => aea0429c-74fd-4fad-9266-022d652cf35d
+    [_text] => checkout
+    [entities] => Array
+        (
+            [intent] => Array
+                (
+                    [0] => Array
+                        (
+                            [confidence] => 0.99550758175312
+                            [value] => checkout
+                        )
+
+                )
+
+        )
+
+)
+
+[26-Jul-2017 20:02:55 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsJXmVldf1Cd4eJrz"}
+[26-Jul-2017 20:02:59 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsJX1S1df1CtB9I2J"}
+[26-Jul-2017 20:03:16 Asia/Calcutta] Last Id : 25
+[26-Jul-2017 20:03:17 Asia/Calcutta] New record created successfully
+[26-Jul-2017 20:03:17 Asia/Calcutta] Record deleted successfully
+[26-Jul-2017 20:03:17 Asia/Calcutta] New record created successfully
+[26-Jul-2017 20:03:17 Asia/Calcutta] Record deleted successfully
+[26-Jul-2017 20:03:18 Asia/Calcutta] {"recipient_id":"1384916821615384","message_id":"mid.$cAAbFrkmOTxRjsJY9dldf1D1L_-rf"}
